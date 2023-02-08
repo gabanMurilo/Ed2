@@ -1,3 +1,9 @@
+/*
+    Um dos problemas que o estudo de Estrutura de Dados procura resolver é a recuperação de informações a partir de uma estrutura.
+    Neste algorítmo, temos um vetor capaz de armazenar 500 registros. 
+    São adicionadas 500 registros aleatóriamente (sem repetição), e o usuário poderá buscar um registro através da busca binária.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
