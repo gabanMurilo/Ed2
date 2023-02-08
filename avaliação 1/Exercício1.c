@@ -1,5 +1,10 @@
+/*  
+    Este algoritmo recebe do usuário informações sobre Filmes, sendo elas: Título, codigo de identificação, gênero, nome do diretor, país de origem e
+    sua nota no IMDb.
+    Os dados são armazenados em uma estrutura estática linear. Além de inserir o filme, o usuário será capaz de: buscar por código ou nome (podendo ser por
+    busca binária ou sequencial), editar as informações do filme e listar o acervo.
 
-
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
